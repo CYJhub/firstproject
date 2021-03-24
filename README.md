@@ -1,4 +1,5 @@
 # firstproject
+
 <Commit, push, pull, branch, merge 개념 정리>
 
 1)Git commit: 폴더의 변경 내용을 저장하는 단위이며, commit을 하면 모든 변경 이력이 저장된다.
